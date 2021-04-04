@@ -28,5 +28,5 @@
 - HTML
 - Python
 
-## Please note if you want to copy my work, please don't. If you do, copy the code and change it in your own work.
+## Please note if you want to copy my work, please don't. If you do, clone it and make it your own work.
 ## Thanks
