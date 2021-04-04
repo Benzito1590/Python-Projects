@@ -24,7 +24,7 @@
 - SHA-1 Password Cracker
 - Time Calculator
 
-# Programming Language use in this Page
+# Programming Language that I use
 - HTML
 - Python
 
